@@ -26,6 +26,7 @@
       dell-inspiron-7405 = import ./dell/inspiron/7405;
       dell-latitude-3480 = import ./dell/latitude/3480;
       dell-latitude-5520 = import ./dell/latitude/5520;
+      dell-latitude-5540 = import ./dell/latitude/5540;
       dell-latitude-7490 = import ./dell/latitude/7490;
       dell-poweredge-r7515 = import ./dell/poweredge/r7515;
       dell-precision-5530 = import ./dell/precision/5530;
